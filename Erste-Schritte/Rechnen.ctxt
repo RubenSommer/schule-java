@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Rechnen
+comment1.params=
+comment1.target=void\ aufgabe0()
+comment2.params=
+comment2.target=void\ aufgabe1()
+comment3.params=a
+comment3.target=void\ aufgabe2(int)
+comment4.params=
+comment4.target=void\ aufgabe3()
+comment5.params=
+comment5.target=void\ aufgabe4()
+comment6.params=
+comment6.target=void\ quadratzahl()
+comment7.params=
+comment7.target=void\ modulo()
+numComments=8
